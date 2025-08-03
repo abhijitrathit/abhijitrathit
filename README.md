@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhijitrathit
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning GCP
-- 💞️ I’m looking to collaborate on Cloud
+- 🌱 I’m currently learning AI Cloud
+- 💞️ I’m looking to collaborate on AI Cloud
 - 📫 How to reach me Mob-9040382863
 - 🌱 Mail-abhijitrathit@gmail.com
 
